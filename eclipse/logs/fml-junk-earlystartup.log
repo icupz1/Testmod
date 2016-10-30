@@ -1,0 +1,28 @@
+[23:33:35] [main/INFO] [GradleStart]: Extra: []
+[23:33:35] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy
+[23:33:35] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy, --assetIndex, legacy, --accessToken, {REDACTED}, --version, 1.7.2, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:33:35] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:33:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:33:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:33:35] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[23:37:44] [main/INFO] [GradleStart]: Extra: []
+[23:37:44] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy
+[23:37:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --accessToken, {REDACTED}, --assetIndex, legacy, --assetsDir, C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy, --version, 1.7.2, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:37:45] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:37:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:37:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:37:45] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[23:44:03] [main/INFO] [GradleStart]: Extra: []
+[23:44:03] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy
+[23:44:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --accessToken, {REDACTED}, --assetIndex, legacy, --assetsDir, C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy, --version, 1.7.2, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[23:44:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:44:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[23:44:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[23:44:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[00:01:29] [main/INFO] [GradleStart]: Extra: []
+[00:01:29] [main/INFO] [GradleStart]: Setting up virtual assets in: C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy
+[00:01:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --accessToken, {REDACTED}, --assetIndex, legacy, --assetsDir, C:\Users\Zac Rapp\.gradle\caches\minecraft\assets\virtual\legacy, --version, 1.7.2, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:01:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:01:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:01:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:01:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
